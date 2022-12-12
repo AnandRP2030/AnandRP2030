@@ -26,29 +26,15 @@
 
 ## My Favorite Works
 
-<a href="https://anandrp2030.github.io/KFC-Clone-Project/"> <img src="https://online.kfc.co.in/static/media/kfcLogo.492728c6.svg" alt="kfc"> </a> <a href="https://anandrp2030.github.io/Drum-Kit/"> <img src="https://www.shutterstock.com/image-vector/drum-musical-instruments-collection-bongo-260nw-1927626704.jpg" width="70" height="30" alt="drum"> </a> <a href="https://anandrp2030.github.io/Simon-Game/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Simon_Electronic_Game.jpg/330px-Simon_Electronic_Game.jpg" alt="simon game">
+<a href="https://anandrp2030.github.io/KFC-Clone-Project/"> <img src="https://online.kfc.co.in/static/media/kfcLogo.492728c6.svg" alt="kfc"> </a> <a href="https://anandrp2030.github.io/Drum-Kit/"> <img src="https://www.shutterstock.com/image-vector/drum-musical-instruments-collection-bongo-260nw-1927626704.jpg" width="70" height="30" alt="drum"> </a> <a href="https://anandrp2030.github.io/Simon-Game/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Simon_Electronic_Game.jpg/330px-Simon_Electronic_Game.jpg" alt="simon game" width="70" height="30">
 
 
 
 
 ## Connect Me
+[![Button Component](https://readme-components.vercel.app/api?component=button&text=Linkedin)](https://www.linkedin.com/in/anandrp2030/) <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anand.rp2030@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="36" width="80">
+</a> 
 
-
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=anand.rp2030@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a> [![Button Component](https://readme-components.vercel.app/api?component=button&text=Linkedin)](https://www.linkedin.com/in/anandrp2030/)
-<!--
-**AnandRP2030/AnandRP2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      
+      
