@@ -9,6 +9,8 @@
 - ⚡ Fun fact: I love playing Chess 
 <br>
 
+
+![Profile views](https://gpvc.arturio.dev/AnandRP2030)
 <!-- github stats -->
 [![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnandRP2030)](https://github.com/AnandRP2030/github-readme-stats)
 
