@@ -1,6 +1,7 @@
-### Hi there 👋
+## Hello, Folks 👋
 
-### I am Anand from Kerala (India). I am an aspiring Full Stack Web Developer
+#### I'm Anand from Kerala, India. I'm passionate about technology, particularly web development and computer science. I have experience in languages like HTML, CSS, and JavaScript, and I'm currently focusing on mastering the backend with technologies like Node.js, MongoDB, express.js, and React. I believe that collaboration is key to building great things, and I'm always eager to work with others to create something truly amazing.
+
 
 - 🔭 I’m currently working on a web project that aims to provide developers with a
       range of resources and tools to improve their skills. 
