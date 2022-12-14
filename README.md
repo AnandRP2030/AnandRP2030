@@ -11,10 +11,6 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/AnandRP2030)
-<!-- github stats -->
-[![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnandRP2030)](https://github.com/AnandRP2030/github-readme-stats) ![Leetcode Stats](https://leetcard.jacoblin.cool/anandrp2000)
-
-<!-- leet code status  -->
 
 
 ## TECH STACK
@@ -41,4 +37,11 @@
 </a> 
 
       
+## MY GitHub Stats
+     
+<!-- github stats and-->  <!-- leet code status  -->
+[![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnandRP2030)](https://github.com/AnandRP2030/github-readme-stats) 
+
+  ## MY LeetCode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/anandrp2000?ext=heatmap&theme=wtf)
       
