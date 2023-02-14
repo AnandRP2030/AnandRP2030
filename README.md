@@ -1,6 +1,6 @@
 ## Hello, Folks 👋
 
-#### I'm Anand from Kerala, India. I'm passionate about technology, particularly web development and computer science. I have experience in languages like HTML, CSS, and JavaScript, and I'm currently focusing on mastering the backend with technologies like Node.js, MongoDB, express.js, and React. I believe that collaboration is key to building great things, and I'm always eager to work with others to create something truly amazing.
+#### I'm Anand from Kerala, India. I'm passionate about technology, particularly web development and computer science. I have experience in languages like HTML, CSS, and JavaScript, React and I'm currently focusing on mastering the backend with technologies like Node.js, MongoDB, and express.js. I believe that collaboration is key to building great things, and I'm always eager to work with others to create something truly amazing.
 
 
 - 🔭 I’m currently working on a web project that aims to provide developers with a
