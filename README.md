@@ -27,7 +27,7 @@
 
 ## My Favorite Works
 
-<a href="https://anandrp2030.github.io/KFC-Clone-Project/"> <img src="https://online.kfc.co.in/static/media/kfcLogo.492728c6.svg" alt="kfc"> </a> <a href="https://anandrp2030.github.io/Drum-Kit/"> <img src="https://www.shutterstock.com/image-vector/drum-musical-instruments-collection-bongo-260nw-1927626704.jpg" width="70" height="30" alt="drum"> </a> <a href="https://anandrp2030.github.io/Simon-Game/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Simon_Electronic_Game.jpg/330px-Simon_Electronic_Game.jpg" alt="simon game" width="70" height="30">
+<a href="https://github.com/AnandRP2030/KFC-Clone/"> <img src="https://cdn.freebiesupply.com/logos/large/2x/kfc-kentucky-fried-chicken-logo-svg-vector.svg" alt="kfc" width="70" height="30"> </a> <a href="https://github.com/AnandRP2030/weather-app"> <img src="https://t4.ftcdn.net/jpg/00/61/23/37/360_F_61233762_wdIqYUhZmHnWb2Dpjot2fncib3TulEAX.jpg" width="70" height="30" alt="drum"> </a> <a href="https://anandrp2030.github.io/Simon-Game/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Simon_Electronic_Game.jpg/330px-Simon_Electronic_Game.jpg" alt="simon game" width="70" height="30">
 
 
 
