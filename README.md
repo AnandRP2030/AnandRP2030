@@ -1,6 +1,6 @@
 ## Hello, Folks 👋
 
-#### Hello, my name is Anand and I am from Kerala, India. I am a passionate technologist with a keen interest in web development. I have extensive experience in various technologies such as  Mongo DB, Express, React, and Node .
+#### My name is Anand and I am from Kerala, India. I am a passionate technologist with a keen interest in web development. I have extensive experience in various technologies such as  Mongo DB, Express, React, and Node .
 
 I firmly believe that collaboration is the cornerstone to building great things, and I am always eager to work with others to create something truly amazing.
 
