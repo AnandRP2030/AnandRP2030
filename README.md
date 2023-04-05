@@ -1,8 +1,6 @@
-<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/54835356/212669577-10ee519d-25bf-461d-95ba-da3188305daf.gif" style="width: 400px; height: 300px; display: inline-block;" data-target="animated-image.originalImage">
+
 
 ## Hello, Folks 👋
-
-<!-- <img src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"/> -->
 
 
 
@@ -10,6 +8,7 @@
 
 I firmly believe that collaboration is the cornerstone to building great things, and I am always eager to work with others to create something truly amazing.
 
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/54835356/212669577-10ee519d-25bf-461d-95ba-da3188305daf.gif" style="width: 400px; height: 300px; display: inline-block;" data-target="animated-image.originalImage">
 
 - 🔭 I’m currently working on a web project that aims to provide developers with a
       range of resources and tools to improve their skills. 
