@@ -20,7 +20,7 @@ I firmly believe that collaboration is the cornerstone to building great things,
 
 
 ![Profile views](https://gpvc.arturio.dev/AnandRP2030)
-
+<br/><br/><br/>
 
 ## TECH STACK
 
