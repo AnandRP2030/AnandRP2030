@@ -1,4 +1,10 @@
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/54835356/212669577-10ee519d-25bf-461d-95ba-da3188305daf.gif" style="width: 400px; height: 300px; display: inline-block;" data-target="animated-image.originalImage">
+
 ## Hello, Folks 👋
+
+<!-- <img src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"/> -->
+
+
 
 #### My name is Anand and I am from Kerala, India. I am a passionate technologist with a keen interest in web development. I have extensive experience in various technologies such as  Mongo DB, Express, React, and Node .
 
@@ -7,7 +13,8 @@ I firmly believe that collaboration is the cornerstone to building great things,
 
 - 🔭 I’m currently working on a web project that aims to provide developers with a
       range of resources and tools to improve their skills. 
-- 🌱 I’m currently learning MERN stack from Masai School 
+      
+- 👨&zwj;💻</g-emoji> Checkout my <a href="https://anandrp2030.github.io/Anand-Portfolio/" rel="nofollow">Portfolio</a> &nbsp; <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270"><img width="15" src="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270" data-canonical-src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp" style="max-width: 100%;"></a>
 - 💬 Ask me about Web Development 
 - ⚡ Fun fact: I love playing Chess 
 <br>
