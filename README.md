@@ -23,7 +23,7 @@ I firmly believe that collaboration is the cornerstone to building great things,
 <br/><br/><br/>
 
 ## TECH STACK
-
+<br/>
 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 
@@ -35,6 +35,7 @@ I firmly believe that collaboration is the cornerstone to building great things,
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> 
 
 
+<br/>
 
 ## My Favorite Works
 
@@ -46,12 +47,13 @@ I firmly believe that collaboration is the cornerstone to building great things,
 
 
 
-
 ## Connect Me
 [![Button Component](https://readme-components.vercel.app/api?component=button&text=Linkedin)](https://www.linkedin.com/in/anandrp2030/) <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anand.rp2030@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="36" width="80">
 </a> 
 
+
+<br/>
       
 ## MY GitHub Stats
 
