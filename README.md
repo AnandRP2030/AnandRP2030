@@ -13,7 +13,7 @@ I firmly believe that collaboration is the cornerstone to building great things,
 - 🔭 I’m currently working on a web project that aims to provide developers with a
       range of resources and tools to improve their skills. 
       
-- 👨&zwj;💻</g-emoji> Checkout my <a href="https://anandrp2030.github.io" rel="nofollow">Portfolio</a> &nbsp; <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270"><img width="15" src="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270" data-canonical-src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp" style="max-width: 100%;"></a>
+- 👨&zwj;💻</g-emoji> Checkout my <a href="https://anandrp2030.github.io/" rel="nofollow">Portfolio</a> &nbsp; <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270"><img width="15" src="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270" data-canonical-src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp" style="max-width: 100%;"></a>
 - 💬 Ask me about Web Development 
 - ⚡ Fun fact: I love playing Chess 
 <br>
@@ -37,12 +37,12 @@ I firmly believe that collaboration is the cornerstone to building great things,
 
 <br/>
 
-## My Favorite Works
+<!-- ## My Favorite Works
 
 <a href="https://spotify-clone4me.netlify.app/"> <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/folder_920_201707260845-1.png" alt="kfc" width="150" height="80"> </a> 
 <a href="https://anandrp2030.github.io/KFC-Clone/"> <img src="https://cdn.freebiesupply.com/logos/large/2x/kfc-kentucky-fried-chicken-logo-svg-vector.svg" alt="kfc" width="150" height="80" > </a> <a href="https://github.com/AnandRP2030/weather-app"> <img src="https://t4.ftcdn.net/jpg/00/61/23/37/360_F_61233762_wdIqYUhZmHnWb2Dpjot2fncib3TulEAX.jpg" width="150" height="80" alt="drum"> </a>
 <a href="https://nyka-clone.netlify.app/"> <img src="https://logos-download.com/wp-content/uploads/2021/01/Nykaa_Logo.png" alt="simon game" width="150" height="80">
-<a href="https://anandrp2030.github.io/Simon-Game/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Simon_Electronic_Game.jpg/330px-Simon_Electronic_Game.jpg" alt="simon game" width="150" height="80">  
+<a href="https://anandrp2030.github.io/Simon-Game/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Simon_Electronic_Game.jpg/330px-Simon_Electronic_Game.jpg" alt="simon game" width="150" height="80">   -->
       
 
 
