@@ -59,7 +59,8 @@ I firmly believe that collaboration is the cornerstone to building great things,
 
      
 <!-- github stats and-->  <!-- leet code status  -->
-[![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnandRP2030)](https://github.com/AnandRP2030/github-readme-stats) 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnandRP2030" alt="AnandRP2030" />
 <br/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnandRP2030&" alt="AnandRP2030" />
 
