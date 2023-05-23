@@ -39,8 +39,8 @@ I firmly believe that collaboration is the cornerstone to building great things,
 
 ## My Favorite Works
 
-<a href="spotify-clone4me.netlify.app/"> <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/folder_920_201707260845-1.png" alt="kfc" width="150" height="80"> </a> 
-<a href="https://github.com/AnandRP2030/KFC-Clone/"> <img src="https://cdn.freebiesupply.com/logos/large/2x/kfc-kentucky-fried-chicken-logo-svg-vector.svg" alt="kfc" width="150" height="80" > </a> <a href="https://github.com/AnandRP2030/weather-app"> <img src="https://t4.ftcdn.net/jpg/00/61/23/37/360_F_61233762_wdIqYUhZmHnWb2Dpjot2fncib3TulEAX.jpg" width="150" height="80" alt="drum"> </a>
+<a href="https://spotify-clone4me.netlify.app/"> <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/folder_920_201707260845-1.png" alt="kfc" width="150" height="80"> </a> 
+<a href="https://anandrp2030.github.io/KFC-Clone/"> <img src="https://cdn.freebiesupply.com/logos/large/2x/kfc-kentucky-fried-chicken-logo-svg-vector.svg" alt="kfc" width="150" height="80" > </a> <a href="https://github.com/AnandRP2030/weather-app"> <img src="https://t4.ftcdn.net/jpg/00/61/23/37/360_F_61233762_wdIqYUhZmHnWb2Dpjot2fncib3TulEAX.jpg" width="150" height="80" alt="drum"> </a>
 <a href="https://nyka-clone.netlify.app/"> <img src="https://logos-download.com/wp-content/uploads/2021/01/Nykaa_Logo.png" alt="simon game" width="150" height="80">
 <a href="https://anandrp2030.github.io/Simon-Game/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Simon_Electronic_Game.jpg/330px-Simon_Electronic_Game.jpg" alt="simon game" width="150" height="80">  
       
