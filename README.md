@@ -8,7 +8,7 @@
 
 I firmly believe that collaboration is the cornerstone to building great things, and I am always eager to work with others to create something truly amazing.
 
-<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/104199818/195697121-4d08fe1c-c830-4feb-82e3-c3d5d3e246c9.png" style="width:500px" data-target="animated-image.originalImage">
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/104199818/195697121-4d08fe1c-c830-4feb-82e3-c3d5d3e246c9.png" style="width:300px" data-target="animated-image.originalImage">
 
 - 🔭 I’m currently working on a web project that aims to provide developers with a
       range of resources and tools to improve their skills. 
