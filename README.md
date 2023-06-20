@@ -19,7 +19,8 @@ I firmly believe that collaboration is the cornerstone to building great things,
 <br>
 
 
-![Profile views](https://gpvc.arturio.dev/AnandRP2030)
+![](https://komarev.com/ghpvc/?username=AnandRP2030&color=red&&style=for-the-badge)
+
 <br/><br/><br/>
 
 ## TECH STACK
