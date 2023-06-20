@@ -23,6 +23,11 @@ I firmly believe that collaboration is the cornerstone to building great things,
 
 <br/><br/><br/>
 
+## Connect With Me
+[![Button Component](https://readme-components.vercel.app/api?component=button&text=Linkedin)](https://www.linkedin.com/in/anandrp2030/) <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anand.rp2030@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="36" width="80">
+</a> 
+
 ## TECH STACK
 <br/>
 
@@ -40,10 +45,7 @@ I firmly believe that collaboration is the cornerstone to building great things,
 
 
 
-## Connect With Me
-[![Button Component](https://readme-components.vercel.app/api?component=button&text=Linkedin)](https://www.linkedin.com/in/anandrp2030/) <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anand.rp2030@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="36" width="80">
-</a> 
+
 
 ## 🏆 GitHub Trophies 
 <p align="center">
@@ -51,11 +53,10 @@ I firmly believe that collaboration is the cornerstone to building great things,
 
 </p>
 
-## MY GitHub Stats
 
      
 <!-- github stats and-->  <!-- leet code status  -->
-# 📊 GitHub Stats :
+#  GitHub Stats :
 <div align="center" style="display: flex; flex-wrap: nowrap;">
     <img width="39%" src="https://github-readme-stats.vercel.app/api?username=AnandRP2030&show_icons=true&theme=tokyonight" alt="Anand"/>
     <img width="42.4%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnandRP2030&theme=tokyonight&hide_border=false" alt="Anand" />
